@@ -7,3 +7,5 @@ in the game to add to their score.
 
 Please note that the game currently only runs on localhost:3000 however it may be published online using technologies such as ngrok
 to tunnel the localhost connection to broadcast it on a certain url. If you wish to test it locally, simply open 2 windows in the browser connecting to localhost:3000 after running the server file using the command in the command prompt: node server.js.
+
+Credits to Daniel Shiffman for creating an online tutorial for using node.js and p5.js
